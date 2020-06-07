@@ -64,8 +64,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.chat.html" />
         <item itemvalue="JavaScript Debug.settings.html" />
+        <item itemvalue="JavaScript Debug.chat.html" />
         <item itemvalue="JavaScript Debug.more.html" />
         <item itemvalue="JavaScript Debug.find.html" />
       </list>
@@ -99,7 +99,8 @@
       <workItem from="1591209291798" duration="8440000" />
       <workItem from="1591234067940" duration="181000" />
       <workItem from="1591304629093" duration="226000" />
-      <workItem from="1591490284698" duration="2774000" />
+      <workItem from="1591490284698" duration="3755000" />
+      <workItem from="1591502749232" duration="4000" />
     </task>
     <servers />
   </component>
