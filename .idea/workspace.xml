@@ -11,6 +11,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -34,6 +36,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -94,6 +97,9 @@
       <workItem from="1591206261921" duration="2336000" />
       <workItem from="1591209194784" duration="79000" />
       <workItem from="1591209291798" duration="8440000" />
+      <workItem from="1591234067940" duration="181000" />
+      <workItem from="1591304629093" duration="226000" />
+      <workItem from="1591490284698" duration="2774000" />
     </task>
     <servers />
   </component>
