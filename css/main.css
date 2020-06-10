@@ -1,9 +1,10 @@
-@import "https://fonts.googleapis.com/css2?family=Lato:wght@400;600&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Lato:wght@400;600;700&display=swap";
 @import "reset.css";
 @import "status-bar.css";
 @import "header.css";
 @import "nav-bar.css";
-@import "friend.css";
+@import "profile.css";
+@import "friends.css";
 
 *{
     box-sizing:border-box;

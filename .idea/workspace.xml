@@ -45,7 +45,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.friends.html">
     <configuration name="chat.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Kakaotalk-clone/chat.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -63,8 +63,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.friends.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.more.html" />
         <item itemvalue="JavaScript Debug.settings.html" />
         <item itemvalue="JavaScript Debug.chat.html" />
@@ -104,6 +104,7 @@
       <workItem from="1591502766960" duration="162000" />
       <workItem from="1591670340624" duration="1828000" />
       <workItem from="1591769195130" duration="1969000" />
+      <workItem from="1591819637489" duration="1654000" />
     </task>
     <servers />
   </component>
