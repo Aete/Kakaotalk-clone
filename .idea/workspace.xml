@@ -45,8 +45,8 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.friends.html">
-    <configuration name="chat.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Kakaotalk-clone/chat.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.find.html">
+    <configuration name="find.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Kakaotalk-clone/find.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="friends.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Kakaotalk-clone/friends.html" useBuiltInWebServerPort="true">
@@ -63,11 +63,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.friends.html" />
+        <item itemvalue="JavaScript Debug.find.html" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.friends.html" />
         <item itemvalue="JavaScript Debug.more.html" />
         <item itemvalue="JavaScript Debug.settings.html" />
-        <item itemvalue="JavaScript Debug.chat.html" />
       </list>
     </recent_temporary>
   </component>
@@ -105,6 +105,7 @@
       <workItem from="1591670340624" duration="1828000" />
       <workItem from="1591769195130" duration="1969000" />
       <workItem from="1591819637489" duration="1654000" />
+      <workItem from="1591822298446" duration="1435000" />
     </task>
     <servers />
   </component>
