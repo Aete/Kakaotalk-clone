@@ -45,11 +45,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.settings.html">
-    <configuration name="find.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Kakaotalk-clone/find.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.chat.html">
+    <configuration name="chat.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Kakaotalk-clone/chat.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="friends.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Kakaotalk-clone/friends.html" useBuiltInWebServerPort="true">
+    <configuration name="find.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Kakaotalk-clone/find.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Kakaotalk-clone/index.html" useBuiltInWebServerPort="true">
@@ -63,11 +63,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.chat.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.settings.html" />
         <item itemvalue="JavaScript Debug.more.html" />
         <item itemvalue="JavaScript Debug.find.html" />
-        <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.friends.html" />
       </list>
     </recent_temporary>
   </component>
@@ -109,6 +109,11 @@
       <workItem from="1591824915745" duration="1974000" />
       <workItem from="1591827465067" duration="463000" />
       <workItem from="1592015280231" duration="1930000" />
+      <workItem from="1592020344510" duration="38000" />
+      <workItem from="1592020534487" duration="4851000" />
+      <workItem from="1592278204924" duration="6700000" />
+      <workItem from="1592342685413" duration="2000" />
+      <workItem from="1592342795733" duration="12000" />
     </task>
     <servers />
   </component>
